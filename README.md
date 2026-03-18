@@ -28,4 +28,4 @@ go test ./patterns/... -v
 Bu komut ile her bir pattern'ın çalışma prensibini ve doğruluğunu görebilirsiniz.
 
 ---
-*Senior Go mühendisliği pratikleri uygulanarak geliştirilmiştir. Temiz kod (clean code) ilkeleri gözetilmiştir.*
+
