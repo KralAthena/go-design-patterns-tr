@@ -16,6 +16,11 @@ Bu proje, bir backend mühendisinin Go dilini ne kadar derinlemesine bildiğini 
 - **Ara Katman (Middleware / Decorator)**: Fonksiyonel sarmalama teknikleri.
 - **Devre Kesici (Circuit Breaker)**: Dağıtık sistemlerin hata toleransı.
 - **Hata Yönetimi (Error Wrapping)**: Standartlara uygun hata bağlamı.
+- **Gözlemci (Observer)**: Olay tabanlı (event-driven) haberleşme.
+- **Hız Sınırlayıcı (Rate Limiter)**: İstek ve işlem trafiği kontrolü.
+- **Zarif Kapatma (Graceful Shutdown)**: Context ve OS sinyalleriyle temiz kapanış.
+- **Jenerik Önbellek (Generics Cache)**: Tip güvenli, yüksek performanslı veriye erişim.
+- **Uyarlayıcı (Adapter)**: Farklı arayüzleri standartlarla uyumlu hale getirme.
 
 ## 🚀 Çalıştırma ve Test
 
